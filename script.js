@@ -1,4 +1,4 @@
-const apiKey = "86dd6321edf708557edc6c2e212b33dc";
+const apiKey = "";
 const weatherInfo = document.querySelector(".weather-info");
 const errorMessage = document.getElementById("error-message");
 
